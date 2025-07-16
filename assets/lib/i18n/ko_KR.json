@@ -1,0 +1,186 @@
+{
+  "residence-card": "재류카드",
+  "my-number-card": "마이넘버카드",
+  "national-health-insurance": "국민건강보험",
+  "national-pension" : "국민연금",
+  "how-to-apply-for-a-residence-card" : "재류카드 신청방법",
+  "what-is-a-residence-card?": "재류카드란?",
+  "residence-card-description" : "☞「재류카드」는3개월이상 장기간 일본에 체류하는 외국인 신분 카드입니다.\n☞「재류카드」에는 성함,국적,주소 등이 기재되어 있습니다.\n☞「재류카드」를 보면 무슨 자격으로 일본에 있는지 노동은 가능한지 할 수 있는 일은 무엇인지 언제까지 체류가 가능한지 등을 알 수 있습니다.",
+  "status-of-residence" : "재류자격",
+  "status-of-residence2things" : "일본에서 할 수 있는 활동\n※재류자격 이외의 일이나 활동은 할 수 없습니다.",
+  "period-of-stay" : "재류기한",
+  "the-last-day-you-can-be-in-japan" : "일본에 체류 가능한 마지막날(“재류기한 만료일”)\n※재류기한이 지나면 일본에 체류할 수 없습니다.",
+  "rules-of-residence-card" : "재류카드에 관한 수칙",
+  "rules-of-residence-card-4things" : "☞16세 이상인 분은 항상 지참하십시오.\n☞출입국재류관리관이나 경찰관이 「 재류카드를 보여 주십시오. 」 라고 요구할 경우 제시해야 합니다.\n☞타인에게 카드를 주거나 빌려주거나 해서는 안 됩니다. 타인에게서 카드를 받거나 빌리거나 해서도 안 됩니다.\n☞재류카드에 기재되어 있는 내용을 변경하거나 재류카드를 마음대로 만들거나 해서도 안 됩니다.",
+  "required-documents-for-residence-card-application-in-japan" : "일본 재류카드 신청 시 필요한 준비물 (유학 비자 기준)",
+  "initial-registration" : "1. 최초 신청 시 (입국 후 등록)",
+  "initial-registration5things" : "입국 후 14일 이내에 재류카드 등록을 해야 합니다. 필요한 준비물은 아래와 같습니다\n・재류카드 원본: 입국 시 공항에서 발급받은 재류카드.\n・여권: 본인 신분을 증명할 수 있는 여권.\n・신청서 (이전 주소등록 신청서): 거주지 등록을 위한 신청서 (시청/구청에서 제공).\n・주소 증명 서류: 거주할 집의 계약서, 혹은 집주인이 작성한 입주 확인서.\n・사진 (필요시): 일부 경우 4cm × 3cm 크기의 최근 3개월 이내 촬영한 사진.",
+  "renewal/extension-of-stay" : "2. 갱신/기간 연장 시",
+  "renewal/extension-of-stay8things" : "재류기간이 만료되기 전에 갱신 신청이 필요합니다. 이 경우 준비물은 다음과 같습니다\n・재류카드 원본: 현재 사용 중인 재류카드.\n・여권: 본인 신분을 증명할 수 있는 여권.\n・재류기간 갱신 신청서: 입국관리국에서 제공되는 신청서 (작성 및 제출 필요).\n・재학 증명서 (在学証明書): 본인이 등록된 학교에서 발급받은 증명서.\n・출석 확인서 및 성적 증명서: 학업 상황을 확인하는 문서 (출석률과 학점 등).\n・재정 증명 서류\n      - 본인의 은행 잔고 증명서\n      - 학비 송급 내역(학비 영수증)\n      - 부모님께서 돈을 보내주시는 경우 부모님의 은행 잔고 증명서 및 소득 증명서\n・사진: 최근 3개월 이내 촬영한 4cm × 3cm 크기의 사진.\n・수수료 납부: 수수료 납부용 수입인지 (일반적으로 4,000엔). ",
+  "notes-on-renewal" : "갱신 관련 참고사항",
+  "notes-on-renewal2things" : "・갱신은 재류기간 만료 3개월 전부터 가능합니다.\n・갱신 신청 후 심사에 1~2개월이 소요될 수 있으므로 여유를 두고 신청해야 합니다.",
+  "additional-information" : "추가 정보",
+  "application-locations" : "신청 장소:",
+  "application-locations2things" : "・최초 등록: 거주지 관할 시청/구청.\n・갱신: 입국관리국 (관할 입국관리센터).",
+  "important-notes" : "주의 사항:",
+  "important-notes2things" : "・신청 후 갱신이 완료되기 전에는 출국하지 않는 것이 좋습니다.\n・유효한 재류카드 없이 일본 내 거주나 활동은 불법으로 간주될 수 있습니다.",
+  "if-you-lost-your-residence-card" : "재류카드를 잃어버렸을 때",
+  "if-you-lost-your-residence-card2things" : "㈠ 먼저 지서나 경찰서에 가서 분실신고를 합니다. 분실신고를 하면 접수 번호가 쓰여진 서류가 나옵니다.\n㈡ 분실한 사실을 안 날부터 14일 이내에 출입국재류관리국에 경찰서에서 받은 서류를 제출하고 새 재류카드를 발급받습니다.",
+  "what-you-need-to-bring-to-the-immigration-services-agency" : "카드 발급에 필요한 지참물",
+  "what-you-need-to-bring-to-the-immigration-services-agency3things" : "・여권\n・얼굴 사진 1장 ( 세로 4cm, 가로 3cm, 3개월 이내에 찍은 사진 )\n   ※16세 미만인 경우는 사진 필요 없음.\n・지서나 경찰서에서 분실 신고서를 낸 후에 교부받은 서류(접수 번호가 기재되어 있음)",
+
+
+  "what-is-my-number-card?": "마이넘버 카드란?",
+  "my-number-card-description": "☞ 마이 넘버 카드란, 마이 넘버가 기재된 얼굴 사진 첨부의 카드입니다. 사진, 주소, 생년월일 등이 표시됩니다.\n ☞ 본인 확인을 위한 신분 증명서로서 이용할 수 있는 것 외에 지자체 서비스, e-Tax등의 전자 증명서를 이용한 전자 신청 등, 다양한 서비스에도 이용하실 수 있습니다. \n ※ 마이 넘버 카드의 유효 기간은, 발행일로부터 10년(미성년자는 5년)까지, 전자 증명서의 유효 기간은, 연령 불문하고 발행일로부터 5년까지로 설정되어 있다 합니다.",
+
+  "how-to-apply-for-my-number-card": "마이넘버 카드 신청 방법",
+  "Preparation-before-application": "신청 전 준비",
+  "Preparation-before-application-text": "・통지카드(通知カード): 마이넘버가 기재된 카드. (현재는 발행 중단되었으나 과거에 받은 경우 유효)\n・마이넘버 통지서: 통지카드 대신 발급되는 서류\n・주민표(住民票): 현재 주소지가 정확히 등록되어 있어야 합니다.",
+
+  "card-application": "마이넘버카드 신청",
+  "an-application-by-mail": "1) 우편으로 신청",
+  "an-application-by-mail-text": "・통지카드와 함께 받은 신청서를 사용\n ・신청서를 작성한 후, 증명사진을 부착하고 동봉된 봉투로 우체국에 발송",
+  "Apply-online": "2) 온라인으로 신청",
+  "Apply-online-text": "1. QR 코드 스캔\n 2. 신청서 작성\n 3. 증명사진 업로드\n 4. 신청완료",
+  "Application-and-confirmation": "3) 신청 후 확인",
+  "Application-and-confirmation-text": "・약 2~3주 후에 시청(市役所)에서 발송하는 수령 안내문이 도착\n・수령 안내문에 적힌 날짜에 시청을 방문하여 마이넘버카드를 받습니다.",
+  "Card-Receipt": "4) 마이넘버카드 수령",
+  "Card-Receipt-text": "・본인 확인 서류(예: 여권, 재류카드), 통지카드 또는 마이넘버 통지서 준비\n・시청에서 본인 확인 절차를 거친 후 카드 수령",
+
+  "benefits-of-my-number-card": "마이넘버 카드의 혜택",
+  "Official-ID-role": "1) 공식 신분증 역할",
+  "Official-ID-role-text": "・재류카드가 필요한 외국인도 마이넘버카드를 추가로 발급받아 더 다양한 용도로 활용할 수 있습니다.\n・여권 없이도 은행 계좌 개설, 휴대전화 계약, 각종 행정 서비스 이용이 가능",
+  "Using-e-Government-Services": "2) 전자정부 서비스 이용",
+  "Using-e-Government-Services-text": "・마이넘버 포털 사이트(Myna Portal)를 통해 행정 절차를 온라인으로 간편하게 처리할 수 있습니다.\n ☞주민등록등본(住民票) 발급\n ☞인감증명서 발급\n ☞주소 변경 신고",
+  "Replacement-of-health-insurance-card": "3) 건강보험증 대체",
+  "Replacement-of-health-insurance-card-text": "마이넘버카드를 건강보험증(健康保険証)으로 등록하여 병원에서 사용 가능합니다.\n ☞의료 정보와 보험 자격 확인을 카드 한 장으로 해결\n ☞진료비를 일부 할인받거나 환급받는 혜택이 적용될 수 있음",
+
+  "if-you-lost-your-my-number-card": "마이넘버 카드를 분실했을 경우",
+  "lost-my-number-card-steps": "1) 마이넘버카드 콜센터에 신고",
+  "lost-my-number-card-steps-text": "・전화번호: 0120-95-0178 (무료)\n ・해외에서 신고 시: +81-50-3818-1250 (유료)\n ・24시간 접수 가능\n ・분실 신고 후 카드는 즉시 정지 처리됩니다.",
+  "A-lost-report-to-a-nearby-police-station": "2) 가까운 경찰서에 분실 신고",
+  "A-lost-report-to-a-nearby-police-station-text": "・분실 또는 도난이 의심될 경우 경찰서에 신고하여 분실 신고증명서(遺失届出証明書)를 발급받으세요.",
+
+
+
+  "1card-application": "국민건강보험 신청",
+  "1an-application-by-mail": "1) 우편으로 신청",
+  "1an-application-by-mail-text": "・주민등록증과 마이넘버 통지서를 준비하여 가까운 시청 또는 구청에 방문하거나 우편으로 신청서를 제출합니다.",
+  "1Apply-online": "2) 온라인으로 신청",
+  "1Apply-online-text": "1. 신청서 작성\n 2. 필요한 서류(재류 카드, 마이넘버 통지서 등)를 업로드\n 3. 신청 완료",
+  "1Application-and-confirmation": "3) 신청 후 확인",
+  "1Application-and-confirmation-text": "・약 2~3주 후에 시청에서 발송하는 수령 안내문을 확인\n・수령 안내문에 적힌 날짜에 시청을 방문하여 국민건강보험증을 받습니다.",
+  "1Card-Receipt": "4) 국민건강보험증 수령",
+  "1Card-Receipt-text": "・본인 확인 서류(예: 여권, 재류카드), 마이넘버 통지서 또는 기타 서류를 준비\n・시청에서 본인 확인 절차 후 국민건강보험증 수령",
+
+  "1benefits-of-national-health-insurance": "국민건강보험의 혜택",
+  "1Official-ID-role": "1) 의료비 지원",
+  "1Official-ID-role-text": "・국민건강보험을 통해 의료비의 대부분을 지원받을 수 있습니다.\n・의료 서비스 이용 시, 비용 부담을 줄일 수 있습니다.",
+  "1Using-e-Government-Services": "2) 의료시설 및 약국 네트워크 이용",
+  "1Using-e-Government-Services-text": "・광범위한 의료시설과 약국에서 서비스를 받을 수 있습니다.",
+  "1Replacement-of-health-insurance-card": "3) 보험료 산정 및 혜택",
+  "1Replacement-of-health-insurance-card-text": "보험료는 소득에 따라 산정되며, 저렴한 월 보험료로 제공됩니다.",
+
+  "1if-you-lost-your-national-health-insurance-card": "국민건강보험증을 분실한 경우",
+  "1lost-national-health-insurance-card-steps": "1) 가까운 시청 또는 구청에 신고",
+  "1lost-national-health-insurance-card-steps-text": "・분실 신고 후 재발급 신청을 하여 국민건강보험증을 재발급받을 수 있습니다.",
+  "1A-lost-report-to-a-nearby-police-station": "2) 경찰서에 분실 신고",
+  "1A-lost-report-to-a-nearby-police-station-text": "・분실 또는 도난 신고를 하여 분실 신고증명서를 발급받고 재발급 신청을 합니다.",
+
+
+
+
+
+
+  "how-to-apply-for-the-national-pension": "국민연금 신청방법",
+  "what-is-the-national-pension" : "국민연금이란?",
+  "national-pension-description" : "일본국내에 거주하는 20세이상 60세미만의 모든 사람은 국민연금에 가입해야만 합니다.\n 유학생도 예외는 아닙니다. 보험료의 납부가 곤란한 학생에게는 학생납부 특례제도와 면제제도가 있습니다. \n시청에 가서 가입수속을 하면서 동시에 납부 특례제도등의 신청을 할 수 있습니다. 신청시에는 학생증과 재류카드가 필요합니다.",
+  "who-needs-to-enroll?" : "가입대상",
+  "2who-needs-to-enroll?": "・일본 국내에 20세 이상 60세 미만으로 거주하는 모든 사람\n・국적에 관계없이 유학생도 포함됨",
+  "enrollment-procedure" : "가입절차",
+  "2enrollment-procedure" : "1. 가입 장소: 거주지 관할 시청 또는 구청의 국민연금 담당 창구\n2. 준비물:\n　　・재류카드 (Residence Card)\n　　・학생증 또는 재학증명서\n3. 수속 절차:\n 시청에 방문하여 국민연금 가입 신청서를 작성하고 제출합니다. 동시에 보험료 납부가 어려운 경우 특례제도나 면제 신청을 할 수 있습니다.",
+  "premium-payments" : "보험료",
+  "2premium-payments" : "・국민연금 보험료는 매달 일정 금액을 납부해야 합니다.\n・2024년 기준, 월 약 16,520엔 정도입니다.\n・보험료는 매년 금액이 조금씩 조정될 수 있습니다.\n",
+  "a-special-system-for-student-payments" : "납부가 어려운 유학생을 위한 지원 제도",
+  "2a-special-system-for-student-payments": "유학생처럼 수입이 적거나 경제적 사정으로 보험료 납부가 어려운 경우 다음과 같은 지원 제도를 신청할 수 있습니다:\n1. 학생납부특례제도 (Student Payment Special Exemption)\n・학생이 국민연금 보험료를 일시적으로 유예받을 수 있는 제도입니다.\n・신청 조건: 학생 신분을 증명할 수 있어야 함 (예: 학생증, 재학증명서)\n・혜택: 유예 기간 동안은 보험료를 납부하지 않아도 되지만, 나중에 소급해서 납부할 수 있습니다.\n2. 면제 제도 (Exemption System)\n・경제적 사정이 어려운 경우 일정 부분 또는 전액 면제받을 수 있습니다.\n・면제 유형: 전액 면제, 3/4 면제, 반액 면제, 1/4 면제",
+  "benefits-of-the-national-pension" : "국민연금의 혜택",
+  "2benefits-of-the-national-pension" : "노령기초연금\n・65세 이상이 되었을 때, 특정 조건을 충족하면 연금을 받을 수 있습니다.\n\n장애기초연금\n・연금 가입 기간 중 질병이나 부상으로 장애가 발생했을 경우 지급됩니다.\n\n유족기초연금\n・가입 기간 중 사망했을 경우, 배우자나 자녀 등 가족이 연금을 받을 수 있습니다.",
+  "working-students-and-pensions" : "아르바이트와 연금",
+  "2working-students-and-pensions" : "\n아르바이트를 하는 유학생은 다음을 참고하세요:\n・월 수입이 88,000엔을 초과할 경우 후생연금(厚生年金) 가입 대상이 될 수 있습니다.\n・후생연금에 가입하면 보험료의 일부를 고용주가 부담합니다.\n",
+  "inquiries-and-assistance" : "문의 및 도움",
+  "inquiries-and-assistance2" : "・시청(市役所) 또는 **구청(区役所)**에서 면제 신청 및 연금 관련 상담 가능.\n・일본연금기구(日本年金機構)에서 다국어 상담 서비스 제공\n",
+
+
+
+
+
+
+  "license-t": "외국 면허증 → 일본 면허증으로 전환",
+  "license-1": "운전면허",
+  "license-2": "운전면허 신청방법",
+  "license-3": "✅ 전환 조건",
+  "license-4": "1.현재 외국 면허증이 유효 상태여야 함.\n2.면허 취득 후 해당국에서 3개월 이상 실제 거주한 기록이 있어야 함 .",
+  "license-5": "✅ 필요서류",
+  "license-6": "1.일본어 번역된 면허증 (JAF나 대사관에서 번역)\n2.외국 면허증 원본 + 복사본(표·뒷면)\n3.여권 및 출입국 스탬프(3개월 거주 증명용) 또는 기타 증빙 자료\n4.주민표(住民票) 또는 여권 동일 문서\n5.건강보험증, 마이넘버카드, 재류카드 등 신분증명서\n6.사진(3cm × 2.4cm), 수수료, 신청서 등 ",
+  "license-7": "✅ 시험 면제 여부",
+  "license-8": "특정 국가/주의 면허 보유자(예: 한국, 미국 일부 주, 유럽 주요 국가 등)는 “주행 시험 면제+간단한 필기 시험만” 받으면 됩니다 .\n※그 외 국가는 필기+실기 시험 모두 받아야 할 수 있음 ",
+  "license-9": "절차",
+  "license-10": "1.면허센터에 전화 예약 (지역 운전면허센터) .\n2.필요한 서류 준비 및 제출.\n3.시력검사, 청력검사, 필기시험, 실기시험(면제 대상자만 필기) 등.\n4.합격하면 일본 면허증 발급.",
+  "license-11": "일본에서 처음부터 새로 면허 따기",
+  "license-12": "✅ 방법 1: 지정 운전학교(自動車教習所) 이용",
+  "license-13": "1.적성 검사 → 1단계 학과(10시간) + 실기(AT 12시간 / MT 15시간) → 가면허 시험 → 2단계 학과(16시간) + 실기(19시간) → 졸업시험 → 면허센터의 본 시험(학과 + 실기)\n2.시간: 통학 1~3개월, 합숙반(캠프) 2주 ~1개월 .\n3.비용: 약 25만~50만엔 (AT 기준, 지역∙언어지원 여부에 따라 다름) .",
+  "license-14": "✅ 방법 2: 비지정 운전학교 또는 직접 시험",
+  "license-15": "1.학과시험 + 실기시험 모두 면허센터에 등록해서 시험.\n2.지정 학교와 달리 실기 시험 필요.",
+  "license-16": "절차",
+  "license-17": "1.면허센터에 전화 예약 (지역 운전면허센터) .\n2.필요한 서류 준비 및 제출.\n3.시력검사, 청력검사, 필기시험, 실기시험(면제 대상자만 필기) 등.\n4.합격하면 일본 면허증 발급.",
+  "license-18": "✅ 알아두면 좋은 정보",
+  "license-19": "1.Shoshinsha Mark (초보자 표시): 일본 면허 취득 후 1년 이내에는 차량 앞뒤에 부착해야 함 \n2.주민이 이사하면 면허증에도 주소 변경 신고 필요 (운전면허센터나 경찰서에서 처리).\n3.갱신: 첫 면허는 보통 3년 유효, 갱신 시 안전교육 있음 (만료 전 1개월~만료 후 1개월 사이에 가능).\n4.응시 언어: 일부 운전학교나 시험 센터에서 외국어(영어, 중국어, 포르투갈어 등) 지원 가능 .\n5.JAF 번역 서비스: JAF에서 면허 번역문을 발급해 줌.",
+  "license-20": "합숙 교습소 검색 사이트",
+
+
+
+
+
+  "passport-1": "여권",
+  "passport-2": "여권 재발급",
+
+  "passport-3": "갱신하는 곳",
+  "passport-4": "일본 내 자국 대사관 또는 총영사관 ",
+  "passport-5": "각국 공관 웹사이트에서 신청 안내 확인 가능",
+
+  "passport-6": "필요한 서류",
+  "passport-7": "여권 갱신 신청서",
+  "passport-8": "기존 여권",
+  "passport-9": "최근 6개월 이내의 여권용 사진",
+  "passport-10": "주민등록등본 또는 가족관계증명서",
+  "passport-11": "신분증 (외국인등록증/재류카드 등)",
+  "passport-12": "수수료 (현금 또는 우편환 등, 공관에 따라 다름)",
+
+  "passport-13": "절차",
+  "passport-14": "사전 예약 (요즘은 온라인 예약 필수인 경우 많음)",
+  "passport-15": "신청서 작성 및 서류 제출",
+  "passport-16": "수수료 납부",
+  "passport-17": "심사 및 발급 (보통 1~2주 소요)",
+  "passport-18": "새 여권 수령",
+
+  "passport-19": "여권 갱신 후 해야 할 일",
+  "passport-20": "입국관리국에서 재류카드에 등록된 여권 정보 갱신해야 함",
+  "passport-21": "여권 번호 바뀐 경우, 재류카드 정보도 수정해야 함",
+  "passport-22": "14일 이내에 신고 안 하면 불이익 생길 수 있음",
+  "passport-23": "신고 장소: 관할 입국관리국",
+  "passport-24": "필요 서류:",
+  "passport-25": "・새 여권",
+  "passport-26": "・재류카드",
+  "passport-27": "・신고서 (입국관리국에 비치 또는 홈페이지에서 다운로드 가능)",
+
+  "passport-28": "6. 참고사항",
+  "passport-29": "여권 재발급 중에는 해외여행 불가능 (기존 여권 회수됨)",
+  "passport-30": "긴급 여권 발급은 일부 국가만 가능하며 사유 필요함",
+  "passport-31": "예: 가족 사망, 사고 등",
+  "passport-32": "여권 사진 규격 까다로움. 사진관에서 '여권용'이라고 정확히 말할 것",
+
+  "passport-33": "관련 링크",
+  "passport-34": "외국 대사관 및 영사관 찾기: https://www.mofa.go.jp",
+  "passport-35": "입국관리국 주소 및 방문 예약: https://www.moj.go.jp",
+  "passport-37": "기타 외국인 행정 절차 정보: https://www.support-info.jp"
+}
